@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DeepanshuJindal30" />
 
 <h1 align="center">🔥 Deepanshu Jindal 🔥</h1>
-<h3 align="center">Software Engineer • Full-Stack • AI & LLMs • 2× Patents • IEEE Researcher</h3>
+<h3 align="center">Software Engineer @ADP • Full-Stack • AI & LLMs • 2× Patents • IEEE Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+AI+ML+%7C+LLMs+%7C+RAG;Patent+Holder+%7C+Research+Author+%7C+5★+Coder;React.js+%7C+.NET+Core+%7C+Node.js+%7C+SQL;LangChain+%7C+TensorFlow+%7C+Stable+Diffusion;Always+Learning+%7C+Always+Building" />
@@ -22,43 +22,38 @@
 
 ---
 
-## ⚙️ Tech Stack — *Top-Tier Arsenal*
 
-**Languages**
-C++ | Python | Java | JavaScript | SQL | NoSQL
+🛠 Tech Stack — Top-Tier Arsenal 🚀
+💻 Languages
 
-markdown
-Copy code
+🐍 Python • ⚙️ C++ • ☕ Java • ⚡ JavaScript
+🗄 SQL • 🍃 NoSQL
 
-**Frontend**
-React.js | Angular | HTML | CSS
+🎨 Frontend
 
-markdown
-Copy code
+⚛️ React.js • 🅰 Angular • 🏗 HTML • 🎨 CSS
 
-**Backend**
-Node.js | .NET Core | REST APIs | Microservices
+🏗 Backend
 
-markdown
-Copy code
+🟢 Node.js • 🔷 .NET Core • 🔌 REST APIs • 🧩 Microservices
 
-**AI / ML / LLM**
-TensorFlow | Hugging Face | LangChain | DeepFace | YOLO | Phi-3
+🤖 AI / ML / LLM
 
-markdown
-Copy code
+🧠 TensorFlow • 🤗 Hugging Face • 🔗 LangChain
+🧬 DeepFace • 🛰 YOLO • 🧩 Phi-3 • 🔥 Stable Diffusion
 
-**Data / Tools**
-MySQL | MongoDB | Pandas | NumPy | Scikit-Learn | Matplotlib | Tableau
+📊 Data / Tools
 
-markdown
-Copy code
+🐼 Pandas • 📊 NumPy • 📈 Sci-Kit Learn
+📉 Matplotlib • 📊 Tableau • 🗄 MySQL • 🍃 MongoDB
 
-**DevOps**
-Git | GitHub | Azure | CI/CD | Docker | VS Code | PyCharm | Anaconda
+⚙️ DevOps & Platforms
 
-yaml
-Copy code
+🐙 GitHub • 🐳 Docker • 📦 CI/CD
+☁️ Azure • 🧪 Postman • 🧑‍💻 VS Code • 🐍 PyCharm • 🧪 Anaconda<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,angular,dotnet,mysql,mongodb,html,css,git,github,docker,azure,tensorflow" />
+</p>
+
 
 ---
 
