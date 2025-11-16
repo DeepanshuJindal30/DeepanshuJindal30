@@ -1,7 +1,8 @@
 <!-- HEADER -->
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=DeepanshuJindal30&label=👀+12,324+Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=DeepanshuJindal30&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Profile%20Views-10,000%2B-brightgreen?style=for-the-badge" />
 </p>
 
 <h1 align="center">🔥 Deepanshu Jindal 🔥</h1>
@@ -15,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 💼 Incoming **Software Engineer @ ADP**
+- 💼  **Software Engineer @ ADP**
 - 🧠 AI + LLM systems with real-world deployments
 - 📚 **7 IEEE/SCOPUS research papers**
 - 🏆 **2× Patent Holder — AI + Healthcare**
