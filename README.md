@@ -2,7 +2,6 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=DeepanshuJindal30&label=Profile%20Views&color=blue&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Profile%20Views-10,000%2B-brightgreen?style=for-the-badge" />
 </p>
 
 <h1 align="center">🔥 Deepanshu Jindal 🔥</h1>
@@ -23,8 +22,42 @@
 - 🏗 Full-Stack & Distributed Systems Dev
 - 🏅 DSA: LeetCode Guardian (2166) | CodeChef 5★ (2031)
 
----
 
+---
+## 🏆 GitHub Trophies 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DeepanshuJindal30&theme=algolia&row=1&column=6&no-frame=true&margin-w=15" />
+</p>
+
+
+---
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:deepanshujindal.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/deepanshu-jindal">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/DeepanshuJindal30">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/Deepanshutwtss">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://deepanshujindal.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=webflow" height="40" />
+  </a>
+</p>
+
+
+---
 ## 🛠 Tech Stack — Top-Tier Arsenal 🚀
 
 ### 💻 Languages  
@@ -51,7 +84,7 @@
 
 ---
 
-### 🔥 Icon Grid (Sexy Edition)
+### 🔥 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,angular,dotnet,mysql,mongodb,html,css,git,github,docker,azure,tensorflow,graphql,postman" />
@@ -73,13 +106,7 @@
 
 ---
 
-## 🏆 GitHub Trophies 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeepanshuJindal30&theme=algolia&row=1&column=6&no-frame=true&margin-w=15" />
-</p>
-
----
 
 ## 📊 GitHub Stats 
 
@@ -110,14 +137,6 @@
 
 ---
 
-## 🌍 Connect With Me
 
-📩 **Email** — deepanshujindal.dev@gmail.com  
-🔗 **Portfolio** — https://deepanshujindal.vercel.app  
-💼 **LinkedIn** — https://linkedin.com/in/deepanshu-jindal  
-🐦 **Twitter** — https://twitter.com/Deepanshutwtss  
-💻 **GitHub** — https://github.com/DeepanshuJindal30  
-
----
 
 ### ⭐ If you like my work — don’t forget to **Star & Follow!** 🌟
