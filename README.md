@@ -85,10 +85,10 @@
 ---
 
 ### 🔥 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,angular,dotnet,mysql,mongodb,html,css,git,github,docker,azure,tensorflow,graphql,postman" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=cpp,cpp,4c8eda;python,python,f7d347;java,java,5382a1;javascript,javascript,f0db4f;&line2=react,react,61dafb;dotnet,dotnet,5c2d91;nodejs,nodejs,3c873a;docker,docker,1d63ed" />
 </p>
+
 
 ---
 
@@ -131,17 +131,4 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-Glitch Hacker Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="260" />
-</p>
-## 🧬 The Cyber Code Effect  
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="260" />
-</p>
 
-
-
-
-### ⭐ If you like my work — don’t forget to **Star & Follow!** 🌟
