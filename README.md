@@ -30,10 +30,10 @@
 
 
 ---
-## 🏆 GitHub Trophies 
+## 🏆  Trophies 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeepanshuJindal30&theme=algolia&row=1&column=6&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DeepanshuJindal30&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
@@ -116,5 +116,10 @@
 
 ---
 
+## 🏙 GitHub Skyline (3D)
+
+[🌆 View My Skyline](https://skyline.github.com/DeepanshuJindal30/)
+![GitHub Streak](https://streak-stats.demolab.com?user=DeepanshuJindal30&theme=radical)
+![Lines of code](https://tokei.rs/b1/github/DeepanshuJindal30/DeepanshuJindal30)
 
 
