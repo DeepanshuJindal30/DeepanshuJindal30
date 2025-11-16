@@ -15,12 +15,16 @@
 
 ## 🧠 About Me
 
-- 💼  **Software Engineer @ ADP**
-- 🧠 AI + LLM systems with real-world deployments
-- 📚 **7 IEEE/SCOPUS research papers**
-- 🏆 **2× Patent Holder — AI + Healthcare**
-- 🏗 Full-Stack & Distributed Systems Dev
-- 🏅 DSA: LeetCode Guardian (2166) | CodeChef 5★ (2031)
+💼 Full-Stack Engineer @ ADP — solving real enterprise problems  
+🧠 Passionate about **AI, LLMs & real-world automation**  
+📚 Author of **7 internationally published research papers**  
+🧪 Inventor of **2 patents** (AI + Healthcare innovation)  
+🛠 I love building:
+   • React & .NET Core apps  
+   • Intelligent LLM workflows  
+   • Distributed systems at scale  
+🏆 Competitive Programming: LeetCode 2166 | CodeChef 5⭐
+
 
 
 ---
@@ -98,7 +102,7 @@
 
 ---
 
-### 🔥 Visual Tech Stack  
+ 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,angular,dotnet,mysql,mongodb,html,css,git,github,docker,azure,tensorflow" />
 </p>
@@ -106,6 +110,10 @@
 
 ---
 
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 ## 🚀 Featured Projects (Live )
@@ -140,9 +148,5 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
 
