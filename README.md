@@ -118,21 +118,26 @@
 
 ---
 
-## 🔥 Reactive Contribution Graph 
+## 🔥 Reactive Contribution Universe
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuJindal30&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuJindal30&theme=tokyo-night&bg_color=000000&color=38f6ff&line=00d9ff&area=true&area_color=0099ff22&hide_border=true" />
 </p>
 
 ---
 
-## 🎭 The Matrix Vibe
-
+## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" height="220" />
+  <img src="https://github.com/DeepanshuJindal30/DeepanshuJindal30/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
+
+## 🧬 The Cyber Code Effect  
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="260" />
+</p>
+
 
 
 
