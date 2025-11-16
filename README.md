@@ -12,20 +12,7 @@
 </p>
 
 ---
-## 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Deepanshu_Jindal?theme=dark&font=Baloo%202&ext=heatmap)
-
-![CodeChef](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blue&label=CodeChef%20Rating&query=%24.rating&url=https://codechef-api.vercel.app/Deepanshu_30)
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Deepanshu_Jindal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepanshu-jindal-65a163204)
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeepanshuJindal30&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuJindal30&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuJindal30&layout=compact&theme=radical" />
-</p>
 
 
 ## 🧠 About Me
@@ -141,8 +128,13 @@
 | 🍱 **Food Calorie Estimator** | YOLOv8 + Nutrition + Computer Vision | [![Live](https://img.shields.io/badge/Live-Colab-yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/drive/1w7Ex-Z9KV6NJWRpmKZA2N4iOL49720pP?usp=sharing) | [![Code](https://img.shields.io/badge/Repo-Code-blueviolet?style=for-the-badge&logo=github)](https://github.com/DeepanshuJindal30/Food-Calorie-estimation) |
 | 🛰 **Hyperspectral ML Model** | Neural Network for crop DON detection | ❌ Not Hosted | [![Code](https://img.shields.io/badge/Repo-Code-blueviolet?style=for-the-badge&logo=github)](https://github.com/DeepanshuJindal30/Hyperspectral-Imaging-ML-Model) |
 
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Deepanshu_Jindal?theme=dark&font=Baloo%202&ext=heatmap)
+
 
 ## 📊 GitHub Stats 
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuJindal30&show_icons=true&theme=tokyonight" height="170" />
