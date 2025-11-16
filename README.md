@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/deepanshu-jindal">
+  <a href="https://linkedin.com/in/deepanshu-jindal-">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
