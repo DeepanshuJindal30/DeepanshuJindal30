@@ -118,8 +118,18 @@
 
 ## 🏙 GitHub Skyline (3D)
 
-[🌆 View My Skyline](https://skyline.github.com/DeepanshuJindal30/)
-![GitHub Streak](https://streak-stats.demolab.com?user=DeepanshuJindal30&theme=radical)
-![Lines of code](https://tokei.rs/b1/github/DeepanshuJindal30/DeepanshuJindal30)
+<p align="center">
+  <a href="https://skyline.github.com/DeepanshuJindal30" target="_blank">
+    <img src="https://img.shields.io/badge/🌆%20View%20My%20Skyline-0078FF?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DeepanshuJindal30&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://tokei.rs/b1/github/DeepanshuJindal30/DeepanshuJindal30?category=code" alt="Lines of Code" />
+</p>
 
 
