@@ -58,35 +58,49 @@
 
 
 ---
-## 🛠 Tech Stack — Top-Tier Arsenal 🚀
+## 🛠 Tech Stack — Expert Level
 
-### 💻 Languages  
-🟦 C++ • 🐍 Python • ☕ Java • ⚡ JavaScript  
-🗄 SQL • 🍃 NoSQL
-
-### 🎨 Frontend  
-⚛️ React.js • 🅰 Angular • 🏗 HTML • 🎨 CSS
-
-### 🏗 Backend  
-🟢 Node.js • 🔷 .NET Core • 🔌 REST APIs • 🧩 Microservices
-
-### 🤖 AI / ML / LLM  
-🧠 TensorFlow • 🤗 Hugging Face • 🔗 LangChain  
-🧬 DeepFace • 🛰 YOLO • 🔥 Stable Diffusion • 🧩 Phi-3
-
-### 📊 Data / Tools  
-🐼 Pandas • 📊 NumPy • 🧠 Scikit-Learn  
-📉 Matplotlib • 📊 Tableau • 🗄 MySQL • 🍃 MongoDB
-
-### ⚙️ DevOps / Cloud  
-🐙 GitHub • 🐳 Docker • 🚀 CI/CD  
-☁ Azure • 🧪 Postman • 🧑‍💻 VS Code • 🐍 PyCharm
+### 🧩 Core Languages  
+🔹 C++  |  🐍 Python  |  ☕ Java  |  ⚡ JavaScript  
+🔹 SQL  |  🍃 NoSQL  
 
 ---
 
-## 🔥 Tech Stack
+### 🎨 Frontend Engineering  
+⚛️ React.js  |  🅰️ Angular  |  🎨 HTML5  |  🎀 CSS3  
+
+---
+
+### 🏗 Backend & Distributed Systems  
+🟢 Node.js  |  🔷 .NET Core  |  🔌 REST APIs  
+📡 Microservices  |  ⚙️ Clean Architecture  
+
+---
+
+### 🤖 AI / ML / LLM Stack  
+🧠 TensorFlow  |  🤗 HuggingFace  |  🔗 LangChain  
+🧬 DeepFace  |  🛰 YOLO  |  🧩 Phi-3  
+🔥 Stable Diffusion  
+
+---
+
+### 📊 Data & Analytics  
+🐼 Pandas  |  📊 NumPy  |  📈 Scikit-Learn  
+🖼 Matplotlib  |  📊 Tableau  
+🗄 MySQL  |  🍃 MongoDB  
+
+---
+
+### 🧪 DevOps & Cloud  
+🐙 GitHub  |  🐳 Docker  |  🔁 CI/CD  
+☁️ Azure  |  🔍 Postman  
+🧑‍💻 VS Code  |  🐍 PyCharm  
+
+---
+
+### 🔥 Visual Tech Stack  
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=cpp,cpp,4c8eda;python,python,f7d347;java,java,5382a1;javascript,javascript,f0db4f;&line2=react,react,61dafb;dotnet,dotnet,5c2d91;nodejs,nodejs,3c873a;docker,docker,1d63ed" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,angular,dotnet,mysql,mongodb,html,css,git,github,docker,azure,tensorflow" />
 </p>
 
 
