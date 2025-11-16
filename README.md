@@ -128,11 +128,14 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/DeepanshuJindal30/DeepanshuJindal30/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-
+Glitch Hacker Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="260" />
+</p>
 ## 🧬 The Cyber Code Effect  
 <p align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="260" />
