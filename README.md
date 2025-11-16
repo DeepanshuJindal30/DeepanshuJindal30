@@ -66,48 +66,17 @@
 ---
 ## 🛠 Tech Stack — Expert Level
 
-### 🧩 Core Languages  
-🔹 C++  |  🐍 Python  |  ☕ Java  |  ⚡ JavaScript  
-🔹 SQL  |  🍃 NoSQL  
+**Languages:** C++ • Python • Java • JavaScript • SQL • NoSQL  
+**Frontend:** React.js • Angular • HTML5 • CSS3  
+**Backend:** Node.js • .NET Core • REST APIs • Microservices  
+**AI & LLMs:** TensorFlow • LangChain • HuggingFace • YOLO • Phi-3 • Stable Diffusion  
+**Data:** Pandas • NumPy • Scikit-Learn • Tableau • MySQL • MongoDB  
+**DevOps:** Git • Docker • Azure • CI/CD • Postman • VS Code • PyCharm
 
----
-
-### 🎨 Frontend Engineering  
-⚛️ React.js  |  🅰️ Angular  |  🎨 HTML5  |  🎀 CSS3  
-
----
-
-### 🏗 Backend & Distributed Systems  
-🟢 Node.js  |  🔷 .NET Core  |  🔌 REST APIs  
-📡 Microservices  |  ⚙️ Clean Architecture  
-
----
-
-### 🤖 AI / ML / LLM Stack  
-🧠 TensorFlow  |  🤗 HuggingFace  |  🔗 LangChain  
-🧬 DeepFace  |  🛰 YOLO  |  🧩 Phi-3  
-🔥 Stable Diffusion  
-
----
-
-### 📊 Data & Analytics  
-🐼 Pandas  |  📊 NumPy  |  📈 Scikit-Learn  
-🖼 Matplotlib  |  📊 Tableau  
-🗄 MySQL  |  🍃 MongoDB  
-
----
-
-### 🧪 DevOps & Cloud  
-🐙 GitHub  |  🐳 Docker  |  🔁 CI/CD  
-☁️ Azure  |  🔍 Postman  
-🧑‍💻 VS Code  |  🐍 PyCharm  
-
----
-
- 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,angular,dotnet,mysql,mongodb,html,css,git,github,docker,azure,tensorflow" />
 </p>
+
 
 
 ---
@@ -143,14 +112,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuJindal30&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-## 🔥 Reactive Contribution Universe
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuJindal30&theme=tokyo-night&bg_color=000000&color=38f6ff&line=00d9ff&area=true&area_color=0099ff22&hide_border=true" />
 </p>
 
 ---
