@@ -96,16 +96,13 @@
 
 ## 🚀 Featured Projects (Live )
 
-| Project | Description | Live | Code |
-|---------|-------------|------|------|
-| 🎨 **KalpChitra AI** | Multilingual Text → Image using SD + GPT | 🔗 https://kalpa-chitra.netlify.app/ | 💻 https://github.com/DeepanshuJindal30/KalpChitra.AI |
-| 📑 **Chat with PDF (RAG)** | LangChain + FAISS + Google GenAI | 🔗 https://chat-with-pdf-file.streamlit.app/ | 💻 https://github.com/DeepanshuJindal30/chatwithpdf1 |
-| 📈 **Deep RL Stock Trader** | DQN Agent learns stock trading | 🔗 https://stock-visualiser.streamlit.app/ | 💻 https://github.com/DeepanshuJindal30/Deep-Reinforcement-Learning-Based-Trading-Strategy |
-| 🍱 **Food Calorie Estimator** | YOLOv8 + Nutrition + Computer Vision | 🔗 https://colab.research.google.com/drive/1w7Ex-Z9KV6NJWRpmKZA2N4iOL49720pP?usp=sharing | 💻 https://github.com/DeepanshuJindal30/Food-Calorie-estimation |
-| 🛰 **Hyperspectral ML Model** | Neural Network trained on ImagoAI data | — | 💻 https://github.com/DeepanshuJindal30/Hyperspectral-Imaging-ML-Model |
-
----
-
+| 🌟 Project | 🧠 Description | 🔗 Live Demo | 💻 GitHub |
+|------------|---------------|-------------|-----------|
+| 🎨 **KalpChitra AI** | Multilingual Text → Image (Stable Diffusion + GPT) | [![Live](https://img.shields.io/badge/Live-App-blue?style=for-the-badge&logo=netlify)](https://kalpa-chitra.netlify.app/) | [![Code](https://img.shields.io/badge/Repo-Code-blueviolet?style=for-the-badge&logo=github)](https://github.com/DeepanshuJindal30/KalpChitra.AI) |
+| 📄 **Chat with PDF (RAG)** | LangChain + FAISS + Google GenAI | [![Live](https://img.shields.io/badge/Live-Chatbot-red?style=for-the-badge&logo=streamlit)](https://chat-with-pdf-file.streamlit.app/) | [![Code](https://img.shields.io/badge/Repo-Code-blueviolet?style=for-the-badge&logo=github)](https://github.com/DeepanshuJindal30/chatwithpdf1) |
+| 📈 **Deep RL Stock Trader** | DQN Agent learns stock trading | [![Live](https://img.shields.io/badge/Live-Trader-green?style=for-the-badge&logo=streamlit)](https://stock-visualiser.streamlit.app/) | [![Code](https://img.shields.io/badge/Repo-Code-blueviolet?style=for-the-badge&logo=github)](https://github.com/DeepanshuJindal30/Deep-Reinforcement-Learning-Based-Trading-Strategy) |
+| 🍱 **Food Calorie Estimator** | YOLOv8 + Nutrition + Computer Vision | [![Live](https://img.shields.io/badge/Live-Colab-yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/drive/1w7Ex-Z9KV6NJWRpmKZA2N4iOL49720pP?usp=sharing) | [![Code](https://img.shields.io/badge/Repo-Code-blueviolet?style=for-the-badge&logo=github)](https://github.com/DeepanshuJindal30/Food-Calorie-estimation) |
+| 🛰 **Hyperspectral ML Model** | Neural Network for crop DON detection | ❌ Not Hosted | [![Code](https://img.shields.io/badge/Repo-Code-blueviolet?style=for-the-badge&logo=github)](https://github.com/DeepanshuJindal30/Hyperspectral-Imaging-ML-Model) |
 
 
 ## 📊 GitHub Stats 
