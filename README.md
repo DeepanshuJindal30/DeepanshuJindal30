@@ -15,6 +15,12 @@
 ## 🧩 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deepanshu_Jindal?theme=dark&font=Baloo%202&ext=heatmap)
+
+![CodeChef](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blue&label=CodeChef%20Rating&query=%24.rating&url=https://codechef-api.vercel.app/Deepanshu_30)
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Deepanshu_Jindal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepanshu-jindal-65a163204)
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeepanshuJindal30&show_icons=true&theme=radical" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuJindal30&theme=radical" />
