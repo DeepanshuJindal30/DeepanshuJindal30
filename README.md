@@ -84,7 +84,7 @@
 
 ---
 
-### 🔥 Tech Stack
+## 🔥 Tech Stack
 <p align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=cpp,cpp,4c8eda;python,python,f7d347;java,java,5382a1;javascript,javascript,f0db4f;&line2=react,react,61dafb;dotnet,dotnet,5c2d91;nodejs,nodejs,3c873a;docker,docker,1d63ed" />
 </p>
