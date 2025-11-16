@@ -12,6 +12,15 @@
 </p>
 
 ---
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Deepanshu_Jindal?theme=dark&font=Baloo%202&ext=heatmap)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeepanshuJindal30&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuJindal30&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuJindal30&layout=compact&theme=radical" />
+</p>
+
 
 ## 🧠 About Me
 
