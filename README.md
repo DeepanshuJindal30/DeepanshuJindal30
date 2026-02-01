@@ -33,7 +33,7 @@
 ## 🏆  Trophies 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DeepanshuJindal30&theme=algolia&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuJindal30&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 
 
